@@ -35,4 +35,5 @@ with open(filename) as f:
     ax.set_ylabel('Temperature (F)', fontsize=16)
     ax.tick_params(axis='both', which='major', labelsize=16)
 
+
     plt.show()

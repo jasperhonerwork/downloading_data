@@ -3,6 +3,48 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Coding\local projects\Python\learnings\python_crash_course\H16\Exercises\16.1\data\sitka_weather_2018_simple.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Coding\local projects\Python\learnings\python_crash_course\H16\Exercises\16.2\data\death_valley_2018_simple.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Coding\local projects\Python\learnings\python_crash_course\H16\Exercises\16.2\data\sitka_weather_2018_simple.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Coding\local projects\Python\learnings\python_crash_course\H16\Exercises\16.3\data\death_valley_2018_simple.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Coding\local projects\Python\learnings\python_crash_course\H16\Exercises\16.3\data\san_francisco_2018_simple.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Coding\local projects\Python\learnings\python_crash_course\H16\Exercises\16.3\data\sitka_weather_2018_simple.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\death_valley_2018_simple.csv">
           <value>
             <Attribute>
